@@ -1,21 +1,19 @@
-
 # Reminders app
 
 Simple react reminders app
-
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/topsy72/remider-app.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd remider-app
 ```
 
 Install dependencies
@@ -29,4 +27,3 @@ Start the server
 ```bash
   npm run start
 ```
-
